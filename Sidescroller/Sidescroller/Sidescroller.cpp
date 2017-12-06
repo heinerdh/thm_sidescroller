@@ -1,7 +1,7 @@
 // "Sidescroller.cpp": Definiert den Einstiegspunkt für die Konsolenanwendung.
 //
 
-#include "scorelist.h"
+#include "scorelist.h"		// Include scorelist
 
 int main()
 {

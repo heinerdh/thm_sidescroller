@@ -1,7 +1,6 @@
 #pragma once
 #include <algorithm>
 #include <ctype.h>
-#include "stdafx.h"
 #include <Windows.h>
 #include <stdlib.h>
 #include "eingabe.h"
